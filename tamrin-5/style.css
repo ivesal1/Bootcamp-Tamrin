@@ -1,0 +1,67 @@
+header div:first-child:not(nav div) {
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    margin: auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: tomato;
+    margin-bottom: 10px;
+}
+header nav div{
+    text-align: center;
+}
+header nav {
+    text-align: center;
+    height: 50px;
+    background-color: khaki;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav div:nth-child(2n){
+    margin: auto 20px;
+}
+header:nth-child(2n){
+    text-align: center;
+    height: 50px;
+    background-color:firebrick ;
+    margin-top:10px ;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+aside{
+    float: left;
+    width: 30%;
+    height: 400px;
+    background-color: aqua;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    float: right;
+    width: 68%;
+    height: 400px;
+    background-color: beige;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    bottom : 0;
+    width: 100%;
+    text-align: center;
+    height: 300px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.clearfix{
+    clear: both;
+}

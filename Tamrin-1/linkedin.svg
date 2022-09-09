@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>linkedin</title>
+    <defs>
+        <rect x="778" y="229" width="29" height="29" id="rect-1"></rect>
+    </defs>
+    <g id="Golrang-System---V3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.481026786">
+        <g id="Home-Page" transform="translate(-778.000000, -4282.000000)">
+            <g id="linkedin" transform="translate(0.000000, 4053.000000)">
+                <image x="778" y="229" width="29" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAYAAADFeBvrAAAABGdBTUEAALGOfPtRkwAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAANKADAAQAAAABAAAANAAAAABdv+0DAAADjElEQVRoBe2a3YtOQRzH11o2d95SyJXY3YS40yJXIlFuyAU3LpTcuFFKXOz/sDdYURQuvBS12jtEm1Akoc0qL3kthGKXzzfmac40M88ccl7q+da3Z+Y3c+b5fs+c+Z0553na2rKYQHUVPALH4M+KUtqkUVrboRc9RAdhVU2EdF1Bs7RnoMAoDB1U9fgztHcbRx0UhmpsxpxseejQmlkBr0OVDS5SuAp1rVYRExGl9bPJEidjvaoPQONSnxcUrAmk1dZ+VLo1C3Zwr4I1gbTa2seU8oJpryambJntSgh5MJnO86HW2wj8BiuFPLOjBXgT3oV34DDcAiuF1Blah+qzUDNksJjCKfgdnjPBsj9TZkimD0LbjNGt9HkIdppA2Z8phmYhclFEaBdtcyPthTalGFJaF0No1h467r/EUwy94ZuVAEJQgngeaiw6nmJoHFEH4DuPuI/E9sMfnrZSQimGJOwWXAvPwxfwJbwElf2uwcogNW1L8G24GU6DurG+h5VDHkNG/AdTqOJnqiH10z3HB60fOwtq9nz3LB2rfvZ60/1LW6k5UOXPUJf0U6gbdm6kGtrHyDsCo/cRP2m1aQdxxqrbxdNUdCOeCnfDbXAhtE/AV+qPocboh7muiFRDsxm4C/ow3QlOoR7qO4O2BVDbqKXQBx2/5A+1V9wKH8IkpGY5+5JyB1Zat6HnkxC0o4iZcY+TMc2qZjQJqYaSBkvotJE+oZkJHS5Tu0KNbrxoQ6HE4upy69sJdLpBXz11DfmO/dfYIwZ4AnVSlUhiG1wlDq29+zCKomdIYpSad8JlcANcD5fDEzCESTT0hBrteBmG9Gw1AL9YQl5T3gNHrJhbnOcGfPWiDb1CxHGfEGKf4OVAm8JK+U1RtKF7KIrtAR9EFOv+1BRFG9K2JoaY2SStSZ1iCnK2NXvtZe/zcg79u3vRhv5KZJ6DWobynK0y+rZmqIyznuc7WzOU52yV0bc1Q2Wc9TzfmTpD2r6H4D5Txca0X4b4xos9AMY0NMZyxTQanMIw9ZlOzFTdFxhvadAbGx9u+IJWbJRy6FhpSIL9o6vK+iG2LpDWjP7Y5VEXUxmdMuS+hsp0qFllXIbcJ8g1NTLhaj2m99B1/WvMarTrPZ+B1lKvKsp0QzCzuGpYl4dG1u6mopRZV1PSLg8Z6L3XIFSSqJMx7x8AjTOtqZXwMNTzfVWNSZs0Smvm1vMLmF3ukXTyE94AAAAASUVORK5CYII="></image>
+                <use fill="" fill-rule="evenodd" xlink:href="#rect-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

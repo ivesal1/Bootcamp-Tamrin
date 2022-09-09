@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form  action="./userData.php" method="GET">
+        <div style="display: flex ; justify-content:center">
+            <fieldset>
+                <legend>
+                    اطلاعات فردی
+                </legend>
+                <div>
+                    <div>
+                        <label for="first-name">نام</label>
+                        <input placeholder="نام" type="text" name="first-name" id="first-name"/>
+                    </div>
+                    <br>
+                    <div>
+                        <label for="last-name">نام خانوادگی</label>
+                        <input placeholder="نام خانوادگی" type="text" name="last-name" id="last-name">
+                    </div>
+                    <br>
+                    <div>
+                        <label for="job">شغل / رشته تحصیلی</label>
+                        <input placeholder="شغل / رشته تحصیلی" type="text" name="job-grade" id="job">
+                    </div>
+                    <br>
+                    <div>
+                        <label for="birth">تاریخ تولد</label>
+                        <input type="datetime-local" name="birthdate" id="birth">
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>
+                    اطلاعات تکمیلی
+                </legend>
+                <div>
+                    <div>
+                        <label for="phone-number">شماره تماس</label>
+                        <input placeholder="شماره تماس" type="text" name="phone-number" id="phone-number">
+                    </div>
+                    <br/>
+                    <div>
+                        <label for="email">ایمیل</label>
+                        <input placeholder="example@mail.com" type="email" name="email" id="email">
+                    </div>
+                    <br/>
+                    <div>
+                        <label for="gender">جنسیت</label>
+                        <select name="gender" id="gender">
+                            <option value="" selected disabled>جنسیت</option>
+                            <option value="man">مرد</option>
+                            <option value="woman">زن</option>
+                        </select>
+                    </div>
+                    <br/>
+                    <div>
+                        <label for="maridgement">وضعیت تاهل</label>
+                        <select name="maridge" id="maridgement">
+                            <option value="" selected disabled>وضعیت تاهل</option>
+                            <option value="sigle">مجرد</option>
+                            <option value="engaged">متاهل</option>
+                        </select>
+                    </div>
+                    <br/>
+                    <div>
+                        <label for="address">آدرس</label>
+                        <textarea placeholder="آدرس" col="20" rows="5" id="address">
+
+                        </textarea>
+                    </div>
+                    <br/>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>
+                    بارگزاری مدارک
+                </legend>
+                <div>
+                    <label for="id-card">اسکن کارت ملی</label>
+                    <input type="file" name="" id="id-card">
+                </div>
+                <br>
+                <div>
+                    <label for="id">اسکن شناسنامه</label>
+                    <input type="file" name="" id="id">
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>
+                    ثبت تقاضی
+                </legend>
+                <div>
+                    <label for="req">متقاضی دوره</label>
+                    <select id="req" name="req">
+                        <option selected disabled>
+                            متقاضی دوره
+                        </option>
+                        <option>
+                            React
+                        </option>
+                        <option>
+                            Vue js
+                        </option>
+                        <option>
+                            C#
+                        </option>
+                        <option>
+                            Go Lang
+                        </option>
+                    </select>
+                </div>
+            </fieldset>
+        </div>
+        <br>
+        <div style="display:flex; justify-content:center">
+            <input type="submit" name="submit" value="ثبت">
+        </div>
+    </form>
+</body>
+</html>
